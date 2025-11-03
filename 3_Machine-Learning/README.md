@@ -11,13 +11,15 @@ To build, train, and evaluate diverse machine learning models that transform dat
 
 ---
 
+
+
 ## 🗂️ Project Categories
 
-| Category                   | Description                                                                     | Folder Link                  |
-| -------------------------- | ------------------------------------------------------------------------------- | ---------------------------- |
-| 📊**Regression**     | Projects predicting continuous outcomes like prices and financial metrics.      | [Open Folder](./Regression)     |
-| 🧩**Classification** | Projects identifying categories or labels, e.g., health or finance predictions. | [Open Folder](./Classification) |
-| 🔍**Clustering**     | Unsupervised learning projects for grouping similar data points.                | [Open Folder](./Clustering)     |
+| Category                     | Description                                                                                                              | Folder Link                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
+| 📊**1_Regression**     | Projects predicting continuous outcomes like prices and financial metrics (e.g., House Price, Avocado, Crypto Analysis). | [Open Folder](./1_Regression)     |
+| 🧩**2_Classification** | Projects identifying categories or labels, e.g., disease detection or sentiment analysis.                                | [Open Folder](./2_Classification) |
+| 🔍**3_Clustering**     | Unsupervised learning projects for grouping similar data points using clustering algorithms.                             | [Open Folder](./3_Clustering)     |
 
 ---
 
@@ -56,7 +58,6 @@ git clone https://github.com/krishna54250/Data-Science.git
 cd Machine-Learning
 ```
 
-
 2️⃣ Install common dependencies:
 
 <pre class="overflow-visible!" data-start="2734" data-end="2777"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>pip install -r requirements.txt
@@ -65,8 +66,6 @@ cd Machine-Learning
 3️⃣ Navigate into any subfolder (e.g., Regression) to explore individual projects.
 
 ---
-
-
 
 ## 📬 Author
 
@@ -77,4 +76,3 @@ cd Machine-Learning
 🌐 [GitHub Profile](https://github.com/krishna54250)
 
 > 🔗 Explore more from the main  **Data Science Repository** , including EDA, AI, and Generative AI projects.
->
