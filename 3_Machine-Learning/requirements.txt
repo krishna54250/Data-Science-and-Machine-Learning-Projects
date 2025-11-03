@@ -1,0 +1,24 @@
+# Core Data Science Libraries
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning Models
+xgboost
+
+# Web App Deployment (for Flask-based ML apps)
+flask
+streamlit
+
+# Utility Tools
+joblib
+pickle-mixin
+
+# Development Environment
+jupyter
+notebook
